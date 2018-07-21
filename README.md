@@ -30,3 +30,5 @@ weekday_pct: the percent of the user’s trips occurring during a weekday
 
 ## Define a label/target/outcome
 Add churn indicator. Considered to churn if have not taken a trip in the last 30 days. In practice, you will often have to figure out how to generate a reasonable label to train your dataset. Is the cutoff of 30 days reasonable? You may want to test this... Sometimes, the correct label is even less obvious; your ability to make a sensible (and defensible) decision in these cases is important.
+
+keep working
