@@ -1,4 +1,4 @@
-# Uber-Rider-Data-Case-Study
+# Uber-Case
 Uber is interested in predicting rider retention.
 
 ## Project overview
