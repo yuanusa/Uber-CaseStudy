@@ -31,7 +31,7 @@ luxury_car_user: True if the user took an luxury car in their first 30 days; Fal
 
 weekday_pct: the percent of the user’s trips occurring during a weekday
 
-## Define a Churn
+## Churn
 Add churn indicator. 
 Considered to churn if have not taken a trip in the last 30 days. 
 In practice, you will often have to figure out how to generate a reasonable label to train your dataset. 
